@@ -1,6 +1,6 @@
 # Growtopia Rich Presence for Discord
 Simple RPC! for you growtopia privates server player!
-this executabled nit reading from save.dat, so your data is safe!
+- this executabled nit reading from save.dat, so your data is safe!
 
 # Previews
 <p align="center">
