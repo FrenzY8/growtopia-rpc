@@ -15,8 +15,10 @@ Rich Presence is a new feature from Discord that allows you to surface unique, i
 - iCrawl
 - CowGTPS
 - Frenzy
-  
+
+ # License created by https://github.com/AykutSarac
  # v1.2
  - added for Private Server system ( thanks to CowGTPS )
  - added diffrent TimeStamp
  - Reduced lags
+
