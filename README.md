@@ -6,3 +6,4 @@ Download the executable in Releases!
 - iCrawl
 - CowGTPS
 - Frenzy
+- Goodless
