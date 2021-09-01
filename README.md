@@ -1,7 +1,7 @@
-# 🎉 Growtopia Rich Presence for Discord 🎉
-✌ Simple RPC! for you growtopia privates server player!
-- this executabled nit reading from save.dat, so your data is safe!
-- this executabled didnt need acces your files
+<h1 align="center" height="500px">🎉 Growtopia Rich Presence for Discord 🎉</h1>
+<h1 align="center" height="500px">✌ Simple RPC! For You Growtopians! ✌
+
+ this executabled didnt need acces your files</h1>
 
 # 🤷 How to Download? 🤷
 🎠 check out on the release
