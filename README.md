@@ -1,24 +1,31 @@
-# Growtopia Rich Presence for Discord
-Simple RPC! for you growtopia privates server player!
+# 🎉 Growtopia Rich Presence for Discord 🎉
+✌ Simple RPC! for you growtopia privates server player!
 - this executabled nit reading from save.dat, so your data is safe!
+- this executabled didnt need acces your files
 
-# Previews
+# 🤷 How to Download? 🤷
+🎠 check out on the release
+- click release in your right screen!
+
+# 🐱‍👤 Previews 🐱‍👤
 <p align="center">
 <img src="./bin/pajangan.jpg"/>
 <a align="center">
 
-# Whats is Discord Rpc?
-Rich Presence is a new feature from Discord that allows you to surface unique, interesting, and actionable data inside a Discord user's profile when they play your game! Rich Presence data should give others a clear understanding of what someone is doing so they can decide if they want to play together or not.
+# 👵 Whats is Discord Rpc? 🧓
+🎊 Rich Presence is a new feature from Discord that allows you to surface unique, interesting, and actionable data inside a Discord user's profile when they play your game! Rich Presence data should give others a clear understanding of what someone is doing so they can decide if they want to play together or not.
 
-# Contributor
+# 🤼‍♀️ Contributor 🤼‍♀️
 - iMix
 - Godless
 - iCrawl
 - CowGTPS
 - Frenzy
-
+ 
+## 🎑 Lang Used
+<img align="mid" alt="GIF" height="300px" src="https://emoji.gg/assets/emoji/6850_python_thonk.png" /> <img align="mid" alt="PNG" height="300px" src="https://emoji.gg/assets/emoji/thinkcpp.png" /><img align="mid" alt="PNG" height="300px" src="https://emoji.gg/assets/emoji/5604_JS_thonk.png" />
+ 
  # v1.2
  - added for Private Server system ( thanks to CowGTPS )
  - added diffrent TimeStamp
- - Reduced lags
-
+ - Reduced lags 
