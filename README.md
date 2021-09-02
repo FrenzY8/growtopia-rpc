@@ -23,7 +23,7 @@
 - Frenzy
  
 ## 🎑 Lang Used
-<img align="mid" alt="GIF" height="300px" src="https://emoji.gg/assets/emoji/6850_python_thonk.png" /> <img align="mid" alt="PNG" height="300px" src="https://emoji.gg/assets/emoji/thinkcpp.png" /><img align="mid" alt="PNG" height="300px" src="https://emoji.gg/assets/emoji/5604_JS_thonk.png" />
+<img align="mid" alt="GIF" height="100px" src="https://emoji.gg/assets/emoji/6850_python_thonk.png" /> <img align="mid" alt="PNG" height="100px" src="https://emoji.gg/assets/emoji/thinkcpp.png" /><img align="mid" alt="PNG" height="100px" src="https://emoji.gg/assets/emoji/5604_JS_thonk.png" />
  
  # v1.2
  - added for Private Server system ( thanks to CowGTPS )
