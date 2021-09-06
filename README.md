@@ -29,3 +29,11 @@
  - added for Private Server system ( thanks to CowGTPS )
  - added diffrent TimeStamp
  - Reduced lags 
+ 
+ # v.1.3 (Not Released yet.)
+ - Fixing Stuck Mode
+ - Reduced GrowtopiaPS Lags
+ - Reduced Tools Size
+ - AFK Status (by CowGTPS)
+ - Stats informations if you're in your worlds
+ - Render World Button (beta)
