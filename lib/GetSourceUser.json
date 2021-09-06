@@ -1,6 +1,6 @@
+// helped by cowgtps
 {
-  "userProfile": "saved"
-  "userWorlds": "getData"
-  "authorizeTimes": 10
-  "getAuthor": false
+  "userProfile": "saved",
+  "getTracksave": false,
+  "authorizeTimes": 10,
 }
