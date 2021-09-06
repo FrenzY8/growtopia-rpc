@@ -7,6 +7,10 @@
 🎠 check out on the release
 - click release in your right screen!
 
+# Version Updated
+# [Version 1.2](https://github.com/FrenzY8/growtopia-rpc#v12)
+
+
 # 🐱‍👤 Previews 🐱‍👤
 <p align="center">
 <img src="./bin/pajangan.jpg"/>
