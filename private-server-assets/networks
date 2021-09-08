@@ -11,6 +11,6 @@
 #
 #    loopback     IPS
 #    campus       IPS
-#    london       IPS
+#    london       IPS1
 
 loopback                 127
