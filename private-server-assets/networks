@@ -9,8 +9,8 @@
 #
 # For example:
 #
-#    loopback     127
-#    campus       284.122.107
-#    london       284.122.108
+#    loopback     IPS
+#    campus       IPS
+#    london       IPS
 
 loopback                 127
