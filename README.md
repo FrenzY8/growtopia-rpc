@@ -7,9 +7,10 @@
 🎠 check out on the release
 - click release in your right screen!
 
-# [Version 1.2](https://github.com/FrenzY8/growtopia-rpc#v12)
-# [Version 1.3](https://github.com/FrenzY8/growtopia-rpc/blob/main/README.md#v13-not-released-yet)
-
+# 🐱‍ GIF Previews 🐱‍
+<p align="center">
+<img src="./assets/coolgif.gif"/>
+<a align="center">
 
 # 🐱‍👤 Previews 🐱‍👤
 <p align="center">
