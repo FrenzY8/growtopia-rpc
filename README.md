@@ -42,3 +42,4 @@
  - AFK Status (by CowGTPS)
  - Stats informations if you're in your worlds
  - Render World Button (beta)
+ - added new commands
